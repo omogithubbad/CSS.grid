@@ -1,0 +1,50 @@
+*{
+    box-sizing: 0;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #FFFFFF;
+
+}
+
+img{
+    width: 100%;
+}
+
+.Ezywrite{
+    margin-left: 50%;
+    width: 10%;
+}
+
+.container1{
+    display: flex;
+    padding: 5%;
+}
+
+.home{
+    background-color: #F65050;
+    width: 3%;
+    text-decoration: underline;
+    text-underline-offset: 5px; 
+    color: #FFFFFF; 
+    padding:  1%;      
+}
+
+.international{
+    background-color: #393939;
+    display: flex;
+    padding: 1%;
+    color: #FFFFFF;
+    gap: 5%;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
